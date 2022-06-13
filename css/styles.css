@@ -1,1 +1,7 @@
 /* pasting code below this note */
+html {
+  box-sizing: border-box;
+}
+*, *;before, *:after {
+  box-sizing: inherit;
+}
